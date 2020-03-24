@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">زانیاری فیلمەکان</string>
+    <string name="askExit">Do you want Exit ?</string>
+    <string name="typemovie">Type of Movie</string>
+    <string name="releasdate">Released Date</string>
+    <string name="popularitymovie">Popularity Movie</string>
+    <string name="avaragevote">Average Vote</string>
+    <string name="search">Search</string>
+    <string name="date">Released Date</string>
+    <string name="toprated">Top Voted</string>
+    <string name="populer">Populists</string>
+    <string name="bookmark">Book Marks</string>
+    <string name="title">Name Movies</string>
+    <string name="changeLanguage">بکە کوردی</string>
+    <string name="exit">Exit App</string>
+    <string name="sort">Sort by</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="overview">Overview</string>
+    <string name="details">Details</string>
+    <string name="seeMore">See More</string>
+    <string name="kurdish">زمانەکە کوردیە..</string>
+    <string name="english">Language is English..</string>
+    <string name="firstLunch">Welcome dear!</string>
+    <string name="cantFind">Cant find it !</string>
+    <string name="nothingFound">Sorry Nothing Found!</string>
+    <string name="dataAdded">New Data Added..</string>
+</resources>

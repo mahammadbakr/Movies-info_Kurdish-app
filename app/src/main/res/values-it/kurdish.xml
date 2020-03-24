@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زانیاری فیلمەکان</string>
+    <string name="askExit">دەتەوێ لە بەرنامەکە دەربچی ؟</string>
+    <string name="typemovie">جوری فیلم</string>
+    <string name="releasdate">بەرواری دەرچون </string>
+    <string name="popularitymovie">ناوبانگی فیلم</string>
+    <string name="avaragevote">تێکڕای دەنگ</string>
+    <string name="search">گەڕان</string>
+    <string name="date">بەرواری دەرچوون</string>
+    <string name="toprated">زۆرترین دەنگاکان</string>
+    <string name="populer">بەناوبانگترینەکان</string>
+    <string name="bookmark">دەستنیشانکراوەکان</string>
+    <string name="title">ناوی فیلم</string>
+    <string name="changeLanguage">Go English</string>
+    <string name="exit">دەرچون</string>
+    <string name="sort">ڕیز بکە</string>
+    <string name="yes">بەڵێ</string>
+    <string name="no">نەخێر</string>
+    <string name="overview">پێداچونەوە</string>
+    <string name="details">زانیاری</string>
+    <string name="seeMore">زیاتر ببینە..</string>
+    <string name="kurdish">زمانەکە کوردیە..</string>
+    <string name="english">Language is English..</string>
+    <string name="firstLunch">بەخێرهاتی!</string>
+    <string name="cantFind">ناتوانین بیدۆزینەوە !</string>
+    <string name="nothingFound">ببورە هیچ شتێک نەدۆزرایەوە !</string>
+    <string name="dataAdded">داتای نوێ زیاد بوو..</string>
+
+</resources>

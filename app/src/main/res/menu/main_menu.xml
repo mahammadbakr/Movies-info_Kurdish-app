@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchAction"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search_black_24dp"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView"
+        />
+
+    <item android:title="@string/sort"
+        app:showAsAction="always"
+        >
+        <menu>
+            <item android:title="@string/title"
+                android:id="@+id/titleMenu"
+                app:showAsAction="collapseActionView"
+                />
+
+            <item android:title="@string/toprated"
+            android:id="@+id/topRateMenu"
+            app:showAsAction="collapseActionView"
+            />
+
+            <item android:title="@string/populer"
+                android:id="@+id/populerMenu"
+                app:showAsAction="collapseActionView"
+                />
+            <item android:title="@string/date"
+                android:id="@+id/dateMenu"
+                app:showAsAction="collapseActionView"
+                />
+
+            <item android:title="@string/bookmark"
+                android:id="@+id/bookmarkMenu"
+                app:showAsAction="collapseActionView"
+                />
+        </menu>
+
+    </item>
+
+
+    <item android:title="@string/changeLanguage"
+        android:id="@+id/languageMenu"
+        android:icon="@drawable/ic_settings_black_24dp"
+        app:showAsAction="collapseActionView"
+        />
+
+    <item android:title="@string/exit"
+        android:id="@+id/exitMenu"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        app:showAsAction="collapseActionView"
+        />
+
+</menu>
